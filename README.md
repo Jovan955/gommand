@@ -1,4 +1,4 @@
-# gommand
+# Jovan
  
 Go one liner program similar to python -c
  
